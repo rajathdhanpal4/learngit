@@ -1,7 +1,7 @@
 mgmt_ip: 10.0.1.111
 vlans:
   red:
-    id: 10
+    id: 15
   blue:
     id: 20
 ports:
